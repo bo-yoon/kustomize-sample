@@ -50,3 +50,7 @@ namespace: metallb-system
 kustomize build | kubectl apply -f -
 
 ```
+
+
+<br>
+
